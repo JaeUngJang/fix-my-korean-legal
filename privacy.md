@@ -12,7 +12,7 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 
   * Engage with us in other related ways, including any support conversations
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [fixmykorean.support@gmail.com](mailto:fixmykorean.support@gmail.com).
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [jjw3435@gmail.com](mailto:jjw3435@gmail.com).
 
 ## SUMMARY OF KEY POINTS
 
@@ -52,7 +52,7 @@ All network requests use encrypted connections (HTTPS/TLS). Because we store not
 
 ## 6. WHAT ARE YOUR PRIVACY RIGHTS?
 
-Depending on your region (for example the EEA, UK, or California), you may have rights such as access, correction, deletion, and portability. Because we hold no personal data about you, most requests can be satisfied by deleting the app from your device, which removes all locally stored data. For anything else, contact us at [fixmykorean.support@gmail.com](mailto:fixmykorean.support@gmail.com) and we will respond within 30 days.
+Depending on your region (for example the EEA, UK, or California), you may have rights such as access, correction, deletion, and portability. Because we hold no personal data about you, most requests can be satisfied by deleting the app from your device, which removes all locally stored data. For anything else, contact us at [jjw3435@gmail.com](mailto:jjw3435@gmail.com) and we will respond within 30 days.
 
 ## 7. DO WE COLLECT INFORMATION FROM MINORS?
 
@@ -64,4 +64,4 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 9. HOW CAN YOU CONTACT US?
 
-If you have questions or comments about this notice, email us at [fixmykorean.support@gmail.com](mailto:fixmykorean.support@gmail.com).
+If you have questions or comments about this notice, email us at [jjw3435@gmail.com](mailto:jjw3435@gmail.com).

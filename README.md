@@ -12,7 +12,7 @@ Coming soon to the App Store.
 
 ## Contact
 
-[fixmykorean.support@gmail.com](mailto:fixmykorean.support@gmail.com)
+[jjw3435@gmail.com](mailto:jjw3435@gmail.com)
 
 ---
 

@@ -8,7 +8,7 @@ title: Support
 
 Having trouble, found a wrong correction, or want to suggest a feature? We read everything.
 
-- Email: [fixmykorean.support@gmail.com](mailto:fixmykorean.support@gmail.com)
+- Email: [jjw3435@gmail.com](mailto:jjw3435@gmail.com)
 
 When reporting a wrong or missed correction, please include the sentence you checked — it directly helps us improve the checker.
 

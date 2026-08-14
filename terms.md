@@ -38,4 +38,4 @@ We may update the App or these terms at any time; continued use after changes co
 
 ## 8. CONTACT
 
-Questions about these terms: [fixmykorean.support@gmail.com](mailto:fixmykorean.support@gmail.com)
+Questions about these terms: [jjw3435@gmail.com](mailto:jjw3435@gmail.com)
