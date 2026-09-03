@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated August 14, 2026**
+**Last updated September 3, 2026**
 
 This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), including when you:
 
@@ -22,7 +22,7 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 
 **Where is my history stored?** Your check history is stored only on your device. Deleting the app deletes it. It is never uploaded to us.
 
-**Do we use tracking, analytics, or ads?** No. The app contains no advertising, no analytics, and no cross-app or cross-site trackers, and we never sell or share your information.
+**Do we use analytics, tracking, or ads?** We use Google Analytics for Firebase to see how the app is used — app opens, checks run, and which corrections people accept. It records an app instance identifier, your device model, and an approximate country derived from a masked IP address. It never receives the text you check, your name, or Apple's advertising identifier (IDFA), and we do not track you across other apps or websites. The app contains no advertising, and we never sell or share your information.
 
 **Do we collect any information from third parties?** No.
 
@@ -32,6 +32,8 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 
 **On-device data.** Your check history (the sentences you checked, verdicts, and corrections) is stored locally on your device so you can review past checks. It never leaves your device.
 
+**Usage data.** Google Analytics for Firebase collects app usage events on our behalf — app opens, checks run, corrections accepted or dismissed, source links opened, and errors shown — together with an app instance identifier that Google assigns to your installation, your device model and operating system version, your app version, and an approximate country derived from an IP address that Google masks. Events carry the length band of the text you checked (for example "100-500 characters"), never the text itself and never a correction. The app instance identifier is reset when you delete the app; it is not your Apple ID, not your name, and not Apple's advertising identifier (IDFA), which we never request.
+
 We do not process any other personal information.
 
 ## 2. LEGAL BASES AND PURPOSE
@@ -40,11 +42,11 @@ We process the text you submit only to provide the core function of the app — 
 
 ## 3. WHEN AND WITH WHOM DO WE SHARE YOUR INFORMATION?
 
-The only third party that receives your submitted text is **Google LLC** (Gemini API), strictly to generate the check result. We do not sell, rent, or trade any information. We have no advertising partners and no data brokers.
+The only third party that receives your submitted text is **Google LLC** (Gemini API), strictly to generate the check result. The same company, acting as our analytics provider, receives the usage events described in Section 1 through Google Analytics for Firebase. We do not sell, rent, or trade any information. We have no advertising partners and no data brokers.
 
 ## 4. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-We keep nothing: we operate no servers that store your content. On-device history is retained until you delete the app (or the history entries, once in-app deletion is available). Google's transient processing of API requests is governed by Google's terms linked above.
+We keep none of your content: we operate no servers that store it. On-device history is retained until you delete the app or remove the entries yourself. Usage events held in Google Analytics for Firebase are retained for 14 months from your most recent activity, after which Google deletes them; aggregate reports built from them may remain. Google's transient processing of Gemini API requests is governed by Google's terms linked above.
 
 ## 5. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
@@ -56,7 +58,7 @@ Depending on your region (for example the EEA, UK, or California), you may have 
 
 ## 7. DO WE COLLECT INFORMATION FROM MINORS?
 
-We do not knowingly collect data from or market to children under 18 years of age. The app collects no personal information from any user.
+We do not knowingly collect data from or market to children under 18 years of age. The app asks for no account, no name, and no contact details from any user.
 
 ## 8. UPDATES TO THIS NOTICE
 
